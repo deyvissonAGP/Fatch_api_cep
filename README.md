@@ -1,3 +1,5 @@
 # Consulta de cep
 
-utilizando fatch api para fazer verificação de cep utilizando o Viacep.com.br
+Utilizando fatch api para fazer verificação de cep utilizando o Viacep.com.br <br>
+
+exemplo bem simples de manipulação de dados com JavaScript. 
